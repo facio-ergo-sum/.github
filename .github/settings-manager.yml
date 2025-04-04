@@ -1,4 +1,4 @@
 org:
   issue-types:
-    name: 'Some Issue'
+    name: 'Issue'
     description: Some issue description here

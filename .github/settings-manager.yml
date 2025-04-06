@@ -3,3 +3,6 @@ org:
   - name: 'Issue'
     description: Some issue description here
   - name: 'Other Issue'
+
+repository:
+  has_wiki: false

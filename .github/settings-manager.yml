@@ -5,4 +5,4 @@ org:
   - name: 'Other Issue'
 
 repository:
-  has_wiki: true
+  has_wiki: false

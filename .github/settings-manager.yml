@@ -4,6 +4,5 @@ org:
     description: Some issue description here
   - name: 'Other Issue'
 
-# comment
 repository:
   has_wiki: true

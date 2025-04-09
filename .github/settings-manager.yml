@@ -7,3 +7,4 @@ org:
 repository:
   has_wiki: true
   allow_merge_commit: false
+  allow_squash_commit: true

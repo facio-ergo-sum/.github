@@ -6,3 +6,4 @@ org:
 
 repository:
   has_wiki: true
+  allow_merge_commits: false

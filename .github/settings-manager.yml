@@ -6,6 +6,7 @@ org:
 
 # hello
 repository:
+  name: robtest
   has_issues: true
   has_wiki: true
   allow_merge_commit: false

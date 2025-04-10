@@ -6,7 +6,7 @@ org:
 
 # hello
 repository:
-  name: robtest
+  name: gmail-tldr
   has_issues: true
   has_wiki: true
   allow_merge_commit: false

@@ -6,7 +6,7 @@ org:
 
 # hello
 repository:
-  has_issues: false
+  has_issues: true
   has_wiki: true
   allow_merge_commit: false
   allow_squash_commit: false

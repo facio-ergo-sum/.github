@@ -5,7 +5,7 @@ org:
   - name: Other Issue
 
 repository:
-  description: description goes here
+  # description: description goes here
   name: .github 
   has_issues: true
   has_wiki: true

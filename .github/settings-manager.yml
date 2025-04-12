@@ -1,12 +1,12 @@
 org:
   issue_types:
-  - name: 'Issue'
+  - name: Issue
     description: Some issue description here
-  - name: 'Other Issue'
+  - name: Other Issue
 
-# hello world
 repository:
-  name: gmail-tldr
+  description: description goes here
+  name: .github 
   has_issues: true
   has_wiki: true
   allow_merge_commit: false

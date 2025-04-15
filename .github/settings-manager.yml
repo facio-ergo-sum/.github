@@ -8,7 +8,7 @@ org:
 repository:
   description: null
   homepage: https://example.com
-  private: true
+  private: false
   security_and_analysis:
     secret_scanning:
       status: enabled 

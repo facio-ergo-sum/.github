@@ -6,6 +6,7 @@ org:
 
 repository:
   description: null
+  homepage: https://example.com
   name: .github 
   has_issues: true
   has_wiki: true

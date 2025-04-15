@@ -7,9 +7,4 @@ org:
 repository:
   description: null
   homepage: https://example.com
-  name: .github 
-  has_issues: true
-  has_wiki: true
-  allow_merge_commit: false
-  allow_squash_commit: false
-  allow_rebase_merge: false
+  private: false

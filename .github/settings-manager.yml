@@ -11,4 +11,4 @@ repository:
   private: false
   security_and_analysis:
     secret_scanning:
-      status: enabled 
+      status: disabled 

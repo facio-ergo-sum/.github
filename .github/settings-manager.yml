@@ -10,5 +10,15 @@ repository:
   homepage: https://example.com
   private: false
   security_and_analysis:
+    advanced_security:
+      status: enabled
+    code_security:
+      status: enabled
     secret_scanning:
-      status: disabled 
+      status: enabled
+    secret_scanning_push_protection:
+      status: disabled
+    secret_scanning_ai_detection:
+      status: disabled
+    secret_scanning_non_provider_patterns:
+      status: disabled

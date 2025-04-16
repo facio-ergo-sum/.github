@@ -9,8 +9,6 @@ repository:
   homepage: https://example.com
   private: false
   security_and_analysis:
-    code_security:
-      status: enabled
     secret_scanning:
       status: enabled
     secret_scanning_push_protection:

@@ -22,3 +22,4 @@ repository:
       status: disabled
     secret_scanning_non_provider_patterns:
       status: disabled
+  has_issues: false

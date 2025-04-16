@@ -19,3 +19,4 @@ repository:
       status: disabled
   has_issues: false
   has_projects: false
+  has_wiki: false

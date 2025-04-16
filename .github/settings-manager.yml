@@ -4,14 +4,11 @@ org:
     description: Some issue description here
   - name: Other Issue
 
-# ello
 repository:
   description: null
   homepage: https://example.com
   private: false
   security_and_analysis:
-    advanced_security:
-      status: enabled
     code_security:
       status: enabled
     secret_scanning:

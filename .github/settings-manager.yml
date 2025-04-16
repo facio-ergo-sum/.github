@@ -20,3 +20,4 @@ repository:
   has_issues: false
   has_projects: true
   has_wiki: false
+  default_branch: develop

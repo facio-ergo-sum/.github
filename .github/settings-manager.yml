@@ -4,6 +4,9 @@ org:
     description: Some issue description here
   - name: Other Issue
 
+labels:
+  - name: Some label
+
 repository:
   description: null
   homepage: https://example.com

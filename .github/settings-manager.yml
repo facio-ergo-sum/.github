@@ -5,7 +5,7 @@ org:
   - name: Other Issue
 
 labels:
-  - name: Some label
+  - name: Some-label
 
 repository:
   description: null

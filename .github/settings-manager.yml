@@ -22,7 +22,7 @@ repository:
       status: disabled
     secret_scanning_non_provider_patterns:
       status: disabled
-  has_issues: false
+  has_issues: true
   has_projects: true
   has_wiki: false
   default_branch: main

@@ -6,7 +6,7 @@ org:
 
 labels:
   - name: Some-label
-    descripion: some label description
+    descripion: Label description
   - name: duplicate
 
 repository:

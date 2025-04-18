@@ -3,13 +3,14 @@ org:
   - name: Issue
     description: Some issue description here
   - name: Other Issue
-
 labels:
   - name: Some label
     description: Label description
     color: 00ff00
   - name: duplicate
-
+    description: This issue or pull request already exists
+    color: 0000ff
+  - name: A new label
 repository:
   description: null
   homepage: https://example.com

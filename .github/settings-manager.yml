@@ -6,7 +6,7 @@ org:
 
 labels:
   - name: Some label
-    descripion: Label description
+    descripion: Label-description
     color: 00ff00
   - name: duplicate
 

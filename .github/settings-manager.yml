@@ -5,7 +5,7 @@ org:
   - name: Other Issue
 labels:
   - name: Some label
-    description: This is a label description
+    description: Here is a label description
     color: 00ff00
   - name: duplicate
     description: This issue or pull request already exists

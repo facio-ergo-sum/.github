@@ -5,7 +5,7 @@ org:
   - name: Other Issue
 collaborators:
   - username: sourceglobe-caretaker
-    permission: triage
+    permission: pull
 labels:
   - name: Some label
     description: This is a label description
